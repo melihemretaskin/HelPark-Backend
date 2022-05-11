@@ -1,0 +1,756 @@
+2022-05-08 02:17:04.383 +03:00 [INF] User profile is available. Using 'C:\Users\melih\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-05-08 02:17:04.978 +03:00 [INF] Now listening on: https://localhost:5001
+2022-05-08 02:17:04.979 +03:00 [INF] Now listening on: http://localhost:5000
+2022-05-08 02:17:04.980 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-08 02:17:04.982 +03:00 [INF] Hosting environment: Development
+2022-05-08 02:17:04.982 +03:00 [INF] Content root path: D:\HelPark\source\repos\HelPark\HelPark.User
+2022-05-08 02:17:05.873 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2022-05-08 02:17:05.926 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-08 02:17:06.013 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HelPark.User.Controllers.HomeController (HelPark.User).
+2022-05-08 02:17:06.023 +03:00 [INF] ilk logum
+2022-05-08 02:17:06.081 +03:00 [INF] Executing ViewResult, running view Index.
+2022-05-08 02:17:06.232 +03:00 [INF] Executed ViewResult - view Index executed in 175.7808ms.
+2022-05-08 02:17:06.234 +03:00 [INF] Executed action HelPark.User.Controllers.HomeController.Index (HelPark.User) in 218.5623ms
+2022-05-08 02:17:06.235 +03:00 [INF] Executed endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-08 02:17:06.239 +03:00 [INF] Request finished in 370.4333ms 200 text/html; charset=utf-8
+2022-05-08 02:17:06.261 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/jquery/dist/jquery.min.js  
+2022-05-08 02:17:06.261 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/css/bootstrap.min.css  
+2022-05-08 02:17:06.261 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+2022-05-08 02:17:06.261 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/js/bootstrap.bundle.min.js  
+2022-05-08 02:17:06.261 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/css/site.css  
+2022-05-08 02:17:06.272 +03:00 [INF] The file /lib/bootstrap/dist/css/bootstrap.min.css was not modified
+2022-05-08 02:17:06.272 +03:00 [INF] The file /lib/jquery/dist/jquery.min.js was not modified
+2022-05-08 02:17:06.272 +03:00 [INF] The file /lib/bootstrap/dist/js/bootstrap.bundle.min.js was not modified
+2022-05-08 02:17:06.272 +03:00 [INF] The file /css/site.css was not modified
+2022-05-08 02:17:06.272 +03:00 [INF] The file /js/site.js was not modified
+2022-05-08 02:17:06.273 +03:00 [INF] Request finished in 11.8254ms 304 application/javascript
+2022-05-08 02:17:06.273 +03:00 [INF] Request finished in 11.8611ms 304 text/css
+2022-05-08 02:17:06.273 +03:00 [INF] Request finished in 12.3326ms 304 application/javascript
+2022-05-08 02:17:06.274 +03:00 [INF] Request finished in 12.9606ms 304 text/css
+2022-05-08 02:17:06.275 +03:00 [INF] Request finished in 13.4869ms 304 application/javascript
+2022-05-08 02:27:21.233 +03:00 [INF] User profile is available. Using 'C:\Users\melih\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-05-08 02:27:21.623 +03:00 [INF] Now listening on: https://localhost:5001
+2022-05-08 02:27:21.624 +03:00 [INF] Now listening on: http://localhost:5000
+2022-05-08 02:27:21.625 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-08 02:27:21.625 +03:00 [INF] Hosting environment: Development
+2022-05-08 02:27:21.626 +03:00 [INF] Content root path: D:\HelPark\source\repos\HelPark\HelPark.User
+2022-05-08 02:27:22.269 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2022-05-08 02:27:22.315 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-08 02:27:22.361 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HelPark.User.Controllers.HomeController (HelPark.User).
+2022-05-08 02:27:22.365 +03:00 [ERR] Sova Çöp
+2022-05-08 02:27:22.384 +03:00 [INF] Executing ViewResult, running view Index.
+2022-05-08 02:27:22.472 +03:00 [INF] Executed ViewResult - view Index executed in 93.8128ms.
+2022-05-08 02:27:22.474 +03:00 [INF] Executed action HelPark.User.Controllers.HomeController.Index (HelPark.User) in 111.7298ms
+2022-05-08 02:27:22.476 +03:00 [INF] Executed endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-08 02:27:22.481 +03:00 [INF] Request finished in 219.9299ms 200 text/html; charset=utf-8
+2022-05-08 02:27:22.497 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/css/bootstrap.min.css  
+2022-05-08 02:27:22.497 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/jquery/dist/jquery.min.js  
+2022-05-08 02:27:22.497 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/css/site.css  
+2022-05-08 02:27:22.497 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/js/bootstrap.bundle.min.js  
+2022-05-08 02:27:22.498 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+2022-05-08 02:27:22.507 +03:00 [INF] The file /lib/bootstrap/dist/css/bootstrap.min.css was not modified
+2022-05-08 02:27:22.507 +03:00 [INF] The file /css/site.css was not modified
+2022-05-08 02:27:22.507 +03:00 [INF] The file /lib/jquery/dist/jquery.min.js was not modified
+2022-05-08 02:27:22.508 +03:00 [INF] Request finished in 11.1232ms 304 text/css
+2022-05-08 02:27:22.508 +03:00 [INF] Request finished in 11.1157ms 304 text/css
+2022-05-08 02:27:22.507 +03:00 [INF] The file /lib/bootstrap/dist/js/bootstrap.bundle.min.js was not modified
+2022-05-08 02:27:22.507 +03:00 [INF] The file /js/site.js was not modified
+2022-05-08 02:27:22.512 +03:00 [INF] Request finished in 15.255ms 304 application/javascript
+2022-05-08 02:27:22.514 +03:00 [INF] Request finished in 17.1548ms 304 application/javascript
+2022-05-08 02:27:22.515 +03:00 [INF] Request finished in 17.0818ms 304 application/javascript
+2022-05-08 02:27:24.397 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2022-05-08 02:27:24.400 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-08 02:27:24.402 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HelPark.User.Controllers.HomeController (HelPark.User).
+2022-05-08 02:27:24.403 +03:00 [ERR] Sova Çöp
+2022-05-08 02:27:24.404 +03:00 [INF] Executing ViewResult, running view Index.
+2022-05-08 02:27:24.411 +03:00 [INF] Executed ViewResult - view Index executed in 6.9566ms.
+2022-05-08 02:27:24.415 +03:00 [INF] Executed action HelPark.User.Controllers.HomeController.Index (HelPark.User) in 11.8499ms
+2022-05-08 02:27:24.416 +03:00 [INF] Executed endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-08 02:27:24.417 +03:00 [INF] Request finished in 20.2987ms 200 text/html; charset=utf-8
+2022-05-08 02:27:25.457 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/Home/Privacy  
+2022-05-08 02:27:25.463 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.HomeController.Privacy (HelPark.User)'
+2022-05-08 02:27:25.466 +03:00 [INF] Route matched with {action = "Privacy", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Privacy() on controller HelPark.User.Controllers.HomeController (HelPark.User).
+2022-05-08 02:27:25.469 +03:00 [INF] Executing ViewResult, running view Privacy.
+2022-05-08 02:27:25.472 +03:00 [INF] Executed ViewResult - view Privacy executed in 4.2017ms.
+2022-05-08 02:27:25.473 +03:00 [INF] Executed action HelPark.User.Controllers.HomeController.Privacy (HelPark.User) in 5.4845ms
+2022-05-08 02:27:25.474 +03:00 [INF] Executed endpoint 'HelPark.User.Controllers.HomeController.Privacy (HelPark.User)'
+2022-05-08 02:27:25.475 +03:00 [INF] Request finished in 18.4355ms 200 text/html; charset=utf-8
+2022-05-08 02:27:26.765 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2022-05-08 02:27:26.766 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-08 02:27:26.767 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HelPark.User.Controllers.HomeController (HelPark.User).
+2022-05-08 02:27:26.768 +03:00 [ERR] Sova Çöp
+2022-05-08 02:27:26.768 +03:00 [INF] Executing ViewResult, running view Index.
+2022-05-08 02:27:26.770 +03:00 [INF] Executed ViewResult - view Index executed in 1.6376ms.
+2022-05-08 02:27:26.771 +03:00 [INF] Executed action HelPark.User.Controllers.HomeController.Index (HelPark.User) in 3.0545ms
+2022-05-08 02:27:26.772 +03:00 [INF] Executed endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-08 02:27:26.772 +03:00 [INF] Request finished in 7.9915ms 200 text/html; charset=utf-8
+2022-05-08 02:27:27.457 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2022-05-08 02:27:27.459 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-08 02:27:27.460 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HelPark.User.Controllers.HomeController (HelPark.User).
+2022-05-08 02:27:27.462 +03:00 [ERR] Sova Çöp
+2022-05-08 02:27:27.463 +03:00 [INF] Executing ViewResult, running view Index.
+2022-05-08 02:27:27.466 +03:00 [INF] Executed ViewResult - view Index executed in 3.4631ms.
+2022-05-08 02:27:27.469 +03:00 [INF] Executed action HelPark.User.Controllers.HomeController.Index (HelPark.User) in 7.3947ms
+2022-05-08 02:27:27.470 +03:00 [INF] Executed endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-08 02:27:27.471 +03:00 [INF] Request finished in 14.2589ms 200 text/html; charset=utf-8
+2022-05-08 02:27:28.105 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2022-05-08 02:27:28.107 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-08 02:27:28.108 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HelPark.User.Controllers.HomeController (HelPark.User).
+2022-05-08 02:27:28.109 +03:00 [ERR] Sova Çöp
+2022-05-08 02:27:28.110 +03:00 [INF] Executing ViewResult, running view Index.
+2022-05-08 02:27:28.115 +03:00 [INF] Executed ViewResult - view Index executed in 4.9961ms.
+2022-05-08 02:27:28.117 +03:00 [INF] Executed action HelPark.User.Controllers.HomeController.Index (HelPark.User) in 7.6267ms
+2022-05-08 02:27:28.118 +03:00 [INF] Executed endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-08 02:27:28.120 +03:00 [INF] Request finished in 14.8921ms 200 text/html; charset=utf-8
+2022-05-08 02:27:28.473 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/Home/Privacy  
+2022-05-08 02:27:28.474 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.HomeController.Privacy (HelPark.User)'
+2022-05-08 02:27:28.475 +03:00 [INF] Route matched with {action = "Privacy", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Privacy() on controller HelPark.User.Controllers.HomeController (HelPark.User).
+2022-05-08 02:27:28.476 +03:00 [INF] Executing ViewResult, running view Privacy.
+2022-05-08 02:27:28.478 +03:00 [INF] Executed ViewResult - view Privacy executed in 1.643ms.
+2022-05-08 02:27:28.479 +03:00 [INF] Executed action HelPark.User.Controllers.HomeController.Privacy (HelPark.User) in 2.8749ms
+2022-05-08 02:27:28.480 +03:00 [INF] Executed endpoint 'HelPark.User.Controllers.HomeController.Privacy (HelPark.User)'
+2022-05-08 02:27:28.482 +03:00 [INF] Request finished in 9.6012ms 200 text/html; charset=utf-8
+2022-05-08 02:32:11.395 +03:00 [INF] User profile is available. Using 'C:\Users\melih\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-05-08 02:32:11.714 +03:00 [INF] Now listening on: https://localhost:5001
+2022-05-08 02:32:11.714 +03:00 [INF] Now listening on: http://localhost:5000
+2022-05-08 02:32:11.715 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-08 02:32:11.715 +03:00 [INF] Hosting environment: Development
+2022-05-08 02:32:11.716 +03:00 [INF] Content root path: D:\HelPark\source\repos\HelPark\HelPark.User
+2022-05-08 02:32:12.448 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2022-05-08 02:32:12.488 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-08 02:32:12.549 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HelPark.User.Controllers.HomeController (HelPark.User).
+2022-05-08 02:32:12.563 +03:00 [ERR] Customer da bir hata oluştu bu arada sova çöp {"Id":1,"NameSurname":"Emre Taşkın","Age":23,"$type":"Customer"}
+2022-05-08 02:32:12.601 +03:00 [INF] Executing ViewResult, running view Index.
+2022-05-08 02:32:12.682 +03:00 [INF] Executed ViewResult - view Index executed in 91.3508ms.
+2022-05-08 02:32:12.685 +03:00 [INF] Executed action HelPark.User.Controllers.HomeController.Index (HelPark.User) in 132.8173ms
+2022-05-08 02:32:12.686 +03:00 [INF] Executed endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-08 02:32:12.691 +03:00 [INF] Request finished in 251.1446ms 200 text/html; charset=utf-8
+2022-05-08 02:35:24.976 +03:00 [INF] User profile is available. Using 'C:\Users\melih\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-05-08 02:35:25.308 +03:00 [INF] Now listening on: https://localhost:5001
+2022-05-08 02:35:25.308 +03:00 [INF] Now listening on: http://localhost:5000
+2022-05-08 02:35:25.309 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-08 02:35:25.309 +03:00 [INF] Hosting environment: Development
+2022-05-08 02:35:25.310 +03:00 [INF] Content root path: D:\HelPark\source\repos\HelPark\HelPark.User
+2022-05-08 02:35:26.361 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2022-05-08 02:35:26.391 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-08 02:35:26.460 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HelPark.User.Controllers.HomeController (HelPark.User).
+2022-05-08 02:35:26.477 +03:00 [ERR] Customer da bir hata oluştu bu arada sova çöp {"Id":2,"NameSurname":"Mert Aytemur","Age":21,"$type":"Customer"}
+2022-05-08 02:35:26.520 +03:00 [INF] Executing ViewResult, running view Index.
+2022-05-08 02:35:26.671 +03:00 [INF] Executed ViewResult - view Index executed in 162.4913ms.
+2022-05-08 02:35:26.674 +03:00 [INF] Executed action HelPark.User.Controllers.HomeController.Index (HelPark.User) in 211.9311ms
+2022-05-08 02:35:26.675 +03:00 [INF] Executed endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-08 02:35:26.680 +03:00 [INF] Request finished in 322.6626ms 200 text/html; charset=utf-8
+2022-05-08 02:39:08.417 +03:00 [INF] User profile is available. Using 'C:\Users\melih\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-05-08 02:39:08.887 +03:00 [INF] Now listening on: https://localhost:5001
+2022-05-08 02:39:08.888 +03:00 [INF] Now listening on: http://localhost:5000
+2022-05-08 02:39:08.889 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-08 02:39:08.889 +03:00 [INF] Hosting environment: Development
+2022-05-08 02:39:08.890 +03:00 [INF] Content root path: D:\HelPark\source\repos\HelPark\HelPark.User
+2022-05-08 02:39:10.049 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2022-05-08 02:39:10.093 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-08 02:39:10.159 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HelPark.User.Controllers.HomeController (HelPark.User).
+2022-05-08 02:39:10.170 +03:00 [ERR] Customer da bir hata oluştu bu arada sova çöp {"Id":2,"NameSurname":"Mert Aytemur","Age":21,"$type":"Customer"}
+2022-05-08 02:39:10.202 +03:00 [INF] Executing ViewResult, running view Index.
+2022-05-08 02:39:10.310 +03:00 [INF] Executed ViewResult - view Index executed in 116.4712ms.
+2022-05-08 02:39:10.313 +03:00 [INF] Executed action HelPark.User.Controllers.HomeController.Index (HelPark.User) in 151.7846ms
+2022-05-08 02:39:10.314 +03:00 [INF] Executed endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-08 02:39:10.319 +03:00 [INF] Request finished in 286.3309ms 200 text/html; charset=utf-8
+2022-05-08 02:39:10.348 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/js/bootstrap.bundle.min.js  
+2022-05-08 02:39:10.348 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/jquery/dist/jquery.min.js  
+2022-05-08 02:39:10.348 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/css/bootstrap.min.css  
+2022-05-08 02:39:10.348 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/css/site.css  
+2022-05-08 02:39:10.348 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+2022-05-08 02:39:10.361 +03:00 [INF] The file /lib/jquery/dist/jquery.min.js was not modified
+2022-05-08 02:39:10.361 +03:00 [INF] The file /lib/bootstrap/dist/js/bootstrap.bundle.min.js was not modified
+2022-05-08 02:39:10.361 +03:00 [INF] The file /css/site.css was not modified
+2022-05-08 02:39:10.361 +03:00 [INF] The file /js/site.js was not modified
+2022-05-08 02:39:10.361 +03:00 [INF] The file /lib/bootstrap/dist/css/bootstrap.min.css was not modified
+2022-05-08 02:39:10.364 +03:00 [INF] Request finished in 15.735ms 304 application/javascript
+2022-05-08 02:39:10.364 +03:00 [INF] Request finished in 15.7351ms 304 text/css
+2022-05-08 02:39:10.364 +03:00 [INF] Request finished in 15.7351ms 304 application/javascript
+2022-05-08 02:39:10.364 +03:00 [INF] Request finished in 15.6126ms 304 application/javascript
+2022-05-08 02:39:10.365 +03:00 [INF] Request finished in 16.6917ms 304 text/css
+2022-05-08 02:42:07.735 +03:00 [INF] User profile is available. Using 'C:\Users\melih\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-05-08 02:42:08.165 +03:00 [INF] Now listening on: https://localhost:5001
+2022-05-08 02:42:08.167 +03:00 [INF] Now listening on: http://localhost:5000
+2022-05-08 02:42:08.170 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-08 02:42:08.171 +03:00 [INF] Hosting environment: Development
+2022-05-08 02:42:08.172 +03:00 [INF] Content root path: D:\HelPark\source\repos\HelPark\HelPark.User
+2022-05-08 02:42:08.776 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2022-05-08 02:42:08.808 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-08 02:42:08.871 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HelPark.User.Controllers.HomeController (HelPark.User).
+2022-05-08 02:42:08.878 +03:00 [ERR] Customer da bir hata oluştu bu arada sova çöp {"Id":2,"NameSurname":"Mert Aytemur","Age":21,"$type":"Customer"}
+2022-05-08 02:42:08.917 +03:00 [INF] Executing ViewResult, running view Index.
+2022-05-08 02:42:09.014 +03:00 [INF] Executed ViewResult - view Index executed in 107.3667ms.
+2022-05-08 02:42:09.016 +03:00 [INF] Executed action HelPark.User.Controllers.HomeController.Index (HelPark.User) in 142.8198ms
+2022-05-08 02:42:09.017 +03:00 [INF] Executed endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-08 02:42:09.026 +03:00 [INF] Request finished in 254.5949ms 200 text/html; charset=utf-8
+2022-05-09 18:50:42.886 +03:00 [INF] User profile is available. Using 'C:\Users\melih\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-05-09 18:50:43.828 +03:00 [INF] Now listening on: https://localhost:5001
+2022-05-09 18:50:43.829 +03:00 [INF] Now listening on: http://localhost:5000
+2022-05-09 18:50:43.830 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-09 18:50:43.830 +03:00 [INF] Hosting environment: Development
+2022-05-09 18:50:43.830 +03:00 [INF] Content root path: D:\HelPark\source\repos\HelPark\HelPark.User
+2022-05-09 18:50:44.455 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2022-05-09 18:50:44.484 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-09 18:50:44.578 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HelPark.User.Controllers.HomeController (HelPark.User).
+2022-05-09 18:50:44.879 +03:00 [ERR] Customer da bir hata oluştu bu arada sova çöp {"Id":2,"NameSurname":"Mert Aytemur","Age":21,"$type":"Customer"}
+2022-05-09 19:02:28.499 +03:00 [INF] User profile is available. Using 'C:\Users\melih\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-05-09 19:02:28.830 +03:00 [INF] Now listening on: https://localhost:5001
+2022-05-09 19:02:28.831 +03:00 [INF] Now listening on: http://localhost:5000
+2022-05-09 19:02:28.832 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-09 19:02:28.833 +03:00 [INF] Hosting environment: Development
+2022-05-09 19:02:28.833 +03:00 [INF] Content root path: D:\HelPark\source\repos\HelPark\HelPark.User
+2022-05-09 19:02:29.421 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2022-05-09 19:02:29.466 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-09 19:02:29.529 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HelPark.User.Controllers.HomeController (HelPark.User).
+2022-05-09 19:02:29.558 +03:00 [ERR] Customer da bir hata oluştu bu arada sova çöp {"Id":2,"NameSurname":"Mert Aytemur","Age":21,"$type":"Customer"}
+2022-05-09 19:03:51.466 +03:00 [INF] User profile is available. Using 'C:\Users\melih\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-05-09 19:03:51.853 +03:00 [INF] Now listening on: https://localhost:5001
+2022-05-09 19:03:51.853 +03:00 [INF] Now listening on: http://localhost:5000
+2022-05-09 19:03:51.854 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-09 19:03:51.855 +03:00 [INF] Hosting environment: Development
+2022-05-09 19:03:51.855 +03:00 [INF] Content root path: D:\HelPark\source\repos\HelPark\HelPark.User
+2022-05-09 19:03:52.549 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2022-05-09 19:03:52.575 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-09 19:03:52.626 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HelPark.User.Controllers.HomeController (HelPark.User).
+2022-05-09 19:03:52.666 +03:00 [ERR] Customer da bir hata oluştu bu arada sova çöp {"Id":2,"NameSurname":"Mert Aytemur","Age":21,"$type":"Customer"}
+2022-05-09 19:08:09.847 +03:00 [INF] User profile is available. Using 'C:\Users\melih\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-05-09 19:08:10.253 +03:00 [INF] Now listening on: https://localhost:5001
+2022-05-09 19:08:10.254 +03:00 [INF] Now listening on: http://localhost:5000
+2022-05-09 19:08:10.255 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-09 19:08:10.255 +03:00 [INF] Hosting environment: Development
+2022-05-09 19:08:10.256 +03:00 [INF] Content root path: D:\HelPark\source\repos\HelPark\HelPark.User
+2022-05-09 19:08:10.882 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2022-05-09 19:08:10.906 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-09 19:08:10.963 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HelPark.User.Controllers.HomeController (HelPark.User).
+2022-05-09 19:08:11.231 +03:00 [ERR] Customer da bir hata oluştu bu arada sova çöp {"Id":2,"NameSurname":"Mert Aytemur","Age":21,"$type":"Customer"}
+2022-05-09 19:09:14.186 +03:00 [INF] Executing ViewResult, running view Index.
+2022-05-09 19:09:14.312 +03:00 [INF] Executed ViewResult - view Index executed in 130.5558ms.
+2022-05-09 19:09:14.315 +03:00 [INF] Executed action HelPark.User.Controllers.HomeController.Index (HelPark.User) in 63349.3627ms
+2022-05-09 19:09:14.316 +03:00 [INF] Executed endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-09 19:09:14.320 +03:00 [INF] Request finished in 63443.2774ms 200 text/html; charset=utf-8
+2022-05-09 19:09:14.328 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/jquery/dist/jquery.min.js  
+2022-05-09 19:09:14.328 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/css/site.css  
+2022-05-09 19:09:14.328 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/css/bootstrap.min.css  
+2022-05-09 19:09:14.451 +03:00 [INF] Sending file. Request path: '/css/site.css'. Physical path: 'D:\HelPark\source\repos\HelPark\HelPark.User\wwwroot\css\site.css'
+2022-05-09 19:09:14.452 +03:00 [INF] Request finished in 124.8699ms 200 text/css
+2022-05-09 19:09:14.455 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/js/bootstrap.bundle.min.js  
+2022-05-09 19:09:14.455 +03:00 [INF] Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'D:\HelPark\source\repos\HelPark\HelPark.User\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css'
+2022-05-09 19:09:14.458 +03:00 [INF] Request finished in 130.3812ms 200 text/css
+2022-05-09 19:09:14.461 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+2022-05-09 19:09:14.463 +03:00 [INF] Sending file. Request path: '/js/site.js'. Physical path: 'D:\HelPark\source\repos\HelPark\HelPark.User\wwwroot\js\site.js'
+2022-05-09 19:09:14.465 +03:00 [INF] Request finished in 3.3298ms 200 application/javascript
+2022-05-09 19:09:14.472 +03:00 [INF] Sending file. Request path: '/lib/jquery/dist/jquery.min.js'. Physical path: 'D:\HelPark\source\repos\HelPark\HelPark.User\wwwroot\lib\jquery\dist\jquery.min.js'
+2022-05-09 19:09:14.475 +03:00 [INF] Request finished in 147.1722ms 200 application/javascript
+2022-05-09 19:09:14.513 +03:00 [INF] Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'D:\HelPark\source\repos\HelPark\HelPark.User\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js'
+2022-05-09 19:09:14.515 +03:00 [INF] Request finished in 60.3251ms 200 application/javascript
+2022-05-09 19:11:38.420 +03:00 [INF] User profile is available. Using 'C:\Users\melih\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-05-09 19:11:38.754 +03:00 [INF] Now listening on: https://localhost:5001
+2022-05-09 19:11:38.755 +03:00 [INF] Now listening on: http://localhost:5000
+2022-05-09 19:11:38.756 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-09 19:11:38.756 +03:00 [INF] Hosting environment: Development
+2022-05-09 19:11:38.756 +03:00 [INF] Content root path: D:\HelPark\source\repos\HelPark\HelPark.User
+2022-05-09 19:11:39.674 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2022-05-09 19:11:39.691 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-09 19:11:39.732 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HelPark.User.Controllers.HomeController (HelPark.User).
+2022-05-09 19:11:39.752 +03:00 [ERR] Customer da bir hata oluştu bu arada sova çöp {"Id":2,"NameSurname":"Mert Aytemur","Age":21,"$type":"Customer"}
+2022-05-09 19:12:34.927 +03:00 [INF] User profile is available. Using 'C:\Users\melih\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-05-09 19:12:35.324 +03:00 [INF] Now listening on: https://localhost:5001
+2022-05-09 19:12:35.325 +03:00 [INF] Now listening on: http://localhost:5000
+2022-05-09 19:12:35.325 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-09 19:12:35.325 +03:00 [INF] Hosting environment: Development
+2022-05-09 19:12:35.326 +03:00 [INF] Content root path: D:\HelPark\source\repos\HelPark\HelPark.User
+2022-05-09 19:12:35.858 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2022-05-09 19:12:35.880 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-09 19:12:35.922 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HelPark.User.Controllers.HomeController (HelPark.User).
+2022-05-09 19:12:35.941 +03:00 [ERR] Customer da bir hata oluştu bu arada sova çöp {"Id":2,"NameSurname":"Mert Aytemur","Age":21,"$type":"Customer"}
+2022-05-09 19:13:05.093 +03:00 [INF] User profile is available. Using 'C:\Users\melih\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-05-09 19:13:05.368 +03:00 [INF] Now listening on: https://localhost:5001
+2022-05-09 19:13:05.369 +03:00 [INF] Now listening on: http://localhost:5000
+2022-05-09 19:13:05.370 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-09 19:13:05.370 +03:00 [INF] Hosting environment: Development
+2022-05-09 19:13:05.372 +03:00 [INF] Content root path: D:\HelPark\source\repos\HelPark\HelPark.User
+2022-05-09 19:13:05.877 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2022-05-09 19:13:05.911 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-09 19:13:05.963 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HelPark.User.Controllers.HomeController (HelPark.User).
+2022-05-09 19:13:06.002 +03:00 [ERR] Customer da bir hata oluştu bu arada sova çöp {"Id":2,"NameSurname":"Mert Aytemur","Age":21,"$type":"Customer"}
+2022-05-09 19:16:11.118 +03:00 [INF] User profile is available. Using 'C:\Users\melih\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-05-09 19:16:11.505 +03:00 [INF] Now listening on: https://localhost:5001
+2022-05-09 19:16:11.507 +03:00 [INF] Now listening on: http://localhost:5000
+2022-05-09 19:16:11.508 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-09 19:16:11.508 +03:00 [INF] Hosting environment: Development
+2022-05-09 19:16:11.509 +03:00 [INF] Content root path: D:\HelPark\source\repos\HelPark\HelPark.User
+2022-05-09 19:16:12.328 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2022-05-09 19:16:12.350 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-09 19:16:12.394 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HelPark.User.Controllers.HomeController (HelPark.User).
+2022-05-09 19:16:12.414 +03:00 [ERR] Customer da bir hata oluştu bu arada sova çöp {"Id":2,"NameSurname":"Mert Aytemur","Age":21,"$type":"Customer"}
+2022-05-09 19:17:00.358 +03:00 [INF] User profile is available. Using 'C:\Users\melih\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-05-09 19:17:00.847 +03:00 [INF] Now listening on: https://localhost:5001
+2022-05-09 19:17:00.849 +03:00 [INF] Now listening on: http://localhost:5000
+2022-05-09 19:17:00.850 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-09 19:17:00.850 +03:00 [INF] Hosting environment: Development
+2022-05-09 19:17:00.851 +03:00 [INF] Content root path: D:\HelPark\source\repos\HelPark\HelPark.User
+2022-05-09 19:17:01.591 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2022-05-09 19:17:01.632 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-09 19:17:01.751 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HelPark.User.Controllers.HomeController (HelPark.User).
+2022-05-09 19:17:01.791 +03:00 [ERR] Customer da bir hata oluştu bu arada sova çöp {"Id":2,"NameSurname":"Mert Aytemur","Age":21,"$type":"Customer"}
+2022-05-09 19:24:19.493 +03:00 [ERR] Customer da bir hata oluştu bu arada sova çöp {"Id":2,"NameSurname":"Mert Aytemur","Age":21,"$type":"Customer"}
+2022-05-09 19:25:15.159 +03:00 [INF] User profile is available. Using 'C:\Users\melih\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-05-09 19:25:15.656 +03:00 [INF] Now listening on: https://localhost:5001
+2022-05-09 19:25:15.658 +03:00 [INF] Now listening on: http://localhost:5000
+2022-05-09 19:25:15.659 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-09 19:25:15.659 +03:00 [INF] Hosting environment: Development
+2022-05-09 19:25:15.660 +03:00 [INF] Content root path: D:\HelPark\source\repos\HelPark\HelPark.User
+2022-05-09 19:25:16.296 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2022-05-09 19:25:16.325 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-09 19:25:16.385 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HelPark.User.Controllers.HomeController (HelPark.User).
+2022-05-09 19:25:16.411 +03:00 [ERR] Customer da bir hata oluştu bu arada sova çöp {"Id":2,"NameSurname":"Mert Aytemur","Age":21,"$type":"Customer"}
+2022-05-09 19:28:23.308 +03:00 [INF] User profile is available. Using 'C:\Users\melih\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-05-09 19:28:23.702 +03:00 [INF] Now listening on: https://localhost:5001
+2022-05-09 19:28:23.703 +03:00 [INF] Now listening on: http://localhost:5000
+2022-05-09 19:28:23.705 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-09 19:28:23.705 +03:00 [INF] Hosting environment: Development
+2022-05-09 19:28:23.706 +03:00 [INF] Content root path: D:\HelPark\source\repos\HelPark\HelPark.User
+2022-05-09 19:28:24.214 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2022-05-09 19:28:24.236 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-09 19:28:24.269 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HelPark.User.Controllers.HomeController (HelPark.User).
+2022-05-09 19:28:24.290 +03:00 [ERR] Customer da bir hata oluştu bu arada sova çöp {"Id":2,"NameSurname":"Mert Aytemur","Age":21,"$type":"Customer"}
+2022-05-09 19:29:12.230 +03:00 [INF] User profile is available. Using 'C:\Users\melih\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-05-09 19:29:12.597 +03:00 [INF] Now listening on: https://localhost:5001
+2022-05-09 19:29:12.598 +03:00 [INF] Now listening on: http://localhost:5000
+2022-05-09 19:29:12.599 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-09 19:29:12.599 +03:00 [INF] Hosting environment: Development
+2022-05-09 19:29:12.600 +03:00 [INF] Content root path: D:\HelPark\source\repos\HelPark\HelPark.User
+2022-05-09 19:29:13.095 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2022-05-09 19:29:13.154 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-09 19:29:13.352 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HelPark.User.Controllers.HomeController (HelPark.User).
+2022-05-09 19:29:13.390 +03:00 [ERR] Customer da bir hata oluştu bu arada sova çöp {"Id":2,"NameSurname":"Mert Aytemur","Age":21,"$type":"Customer"}
+2022-05-09 19:29:26.144 +03:00 [INF] User profile is available. Using 'C:\Users\melih\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-05-09 19:29:26.419 +03:00 [INF] Now listening on: https://localhost:5001
+2022-05-09 19:29:26.420 +03:00 [INF] Now listening on: http://localhost:5000
+2022-05-09 19:29:26.421 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-09 19:29:26.421 +03:00 [INF] Hosting environment: Development
+2022-05-09 19:29:26.422 +03:00 [INF] Content root path: D:\HelPark\source\repos\HelPark\HelPark.User
+2022-05-09 19:29:27.120 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2022-05-09 19:29:27.155 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-09 19:29:27.195 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HelPark.User.Controllers.HomeController (HelPark.User).
+2022-05-09 19:29:27.221 +03:00 [ERR] Customer da bir hata oluştu bu arada sova çöp {"Id":2,"NameSurname":"Mert Aytemur","Age":21,"$type":"Customer"}
+2022-05-09 19:29:56.716 +03:00 [INF] User profile is available. Using 'C:\Users\melih\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-05-09 19:29:57.163 +03:00 [INF] Now listening on: https://localhost:5001
+2022-05-09 19:29:57.164 +03:00 [INF] Now listening on: http://localhost:5000
+2022-05-09 19:29:57.166 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-09 19:29:57.167 +03:00 [INF] Hosting environment: Development
+2022-05-09 19:29:57.168 +03:00 [INF] Content root path: D:\HelPark\source\repos\HelPark\HelPark.User
+2022-05-09 19:29:57.749 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2022-05-09 19:29:57.769 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-09 19:29:57.844 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HelPark.User.Controllers.HomeController (HelPark.User).
+2022-05-09 19:29:57.913 +03:00 [ERR] Customer da bir hata oluştu bu arada sova çöp {"Id":2,"NameSurname":"Mert Aytemur","Age":21,"$type":"Customer"}
+2022-05-09 19:30:23.555 +03:00 [INF] User profile is available. Using 'C:\Users\melih\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-05-09 19:30:23.992 +03:00 [INF] Now listening on: https://localhost:5001
+2022-05-09 19:30:23.993 +03:00 [INF] Now listening on: http://localhost:5000
+2022-05-09 19:30:23.994 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-09 19:30:23.995 +03:00 [INF] Hosting environment: Development
+2022-05-09 19:30:23.996 +03:00 [INF] Content root path: D:\HelPark\source\repos\HelPark\HelPark.User
+2022-05-09 19:30:24.568 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2022-05-09 19:30:24.593 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-09 19:30:24.652 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HelPark.User.Controllers.HomeController (HelPark.User).
+2022-05-09 19:30:24.680 +03:00 [ERR] Customer da bir hata oluştu bu arada sova çöp {"Id":2,"NameSurname":"Mert Aytemur","Age":21,"$type":"Customer"}
+2022-05-09 19:31:27.683 +03:00 [INF] User profile is available. Using 'C:\Users\melih\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-05-09 19:31:28.106 +03:00 [INF] Now listening on: https://localhost:5001
+2022-05-09 19:31:28.108 +03:00 [INF] Now listening on: http://localhost:5000
+2022-05-09 19:31:28.109 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-09 19:31:28.110 +03:00 [INF] Hosting environment: Development
+2022-05-09 19:31:28.110 +03:00 [INF] Content root path: D:\HelPark\source\repos\HelPark\HelPark.User
+2022-05-09 19:31:28.861 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2022-05-09 19:31:28.895 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-09 19:31:28.959 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HelPark.User.Controllers.HomeController (HelPark.User).
+2022-05-09 19:31:28.988 +03:00 [ERR] Customer da bir hata oluştu bu arada sova çöp {"Id":2,"NameSurname":"Mert Aytemur","Age":21,"$type":"Customer"}
+2022-05-09 19:34:25.757 +03:00 [INF] User profile is available. Using 'C:\Users\melih\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-05-09 19:34:26.317 +03:00 [INF] Now listening on: https://localhost:5001
+2022-05-09 19:34:26.317 +03:00 [INF] Now listening on: http://localhost:5000
+2022-05-09 19:34:26.318 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-09 19:34:26.318 +03:00 [INF] Hosting environment: Development
+2022-05-09 19:34:26.319 +03:00 [INF] Content root path: D:\HelPark\source\repos\HelPark\HelPark.User
+2022-05-09 19:34:27.147 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2022-05-09 19:34:27.162 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-09 19:34:27.196 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HelPark.User.Controllers.HomeController (HelPark.User).
+2022-05-09 19:34:27.379 +03:00 [ERR] Customer da bir hata oluştu bu arada sova çöp {"Id":2,"NameSurname":"Mert Aytemur","Age":21,"$type":"Customer"}
+2022-05-10 15:10:19.727 +03:00 [INF] User profile is available. Using 'C:\Users\melih\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-05-10 15:10:20.536 +03:00 [INF] Now listening on: https://localhost:5001
+2022-05-10 15:10:20.537 +03:00 [INF] Now listening on: http://localhost:5000
+2022-05-10 15:10:20.538 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-10 15:10:20.538 +03:00 [INF] Hosting environment: Development
+2022-05-10 15:10:20.539 +03:00 [INF] Content root path: D:\HelPark\source\repos\HelPark\HelPark.User
+2022-05-10 15:10:21.455 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2022-05-10 15:10:21.519 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-10 15:10:21.576 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HelPark.User.Controllers.HomeController (HelPark.User).
+2022-05-10 15:10:21.698 +03:00 [INF] Executing ViewResult, running view Index.
+2022-05-10 15:10:21.830 +03:00 [INF] Executed ViewResult - view Index executed in 134.7368ms.
+2022-05-10 15:10:21.836 +03:00 [INF] Executed action HelPark.User.Controllers.HomeController.Index (HelPark.User) in 257.5101ms
+2022-05-10 15:10:21.840 +03:00 [INF] Executed endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-10 15:10:21.845 +03:00 [INF] Request finished in 392.9068ms 200 text/html; charset=utf-8
+2022-05-10 15:10:21.864 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/jquery/dist/jquery.min.js  
+2022-05-10 15:10:21.869 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/css/bootstrap.min.css  
+2022-05-10 15:10:21.864 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/css/site.css  
+2022-05-10 15:10:21.878 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/js/bootstrap.bundle.min.js  
+2022-05-10 15:10:21.878 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+2022-05-10 15:10:21.903 +03:00 [INF] The file /lib/bootstrap/dist/css/bootstrap.min.css was not modified
+2022-05-10 15:10:21.903 +03:00 [INF] The file /lib/jquery/dist/jquery.min.js was not modified
+2022-05-10 15:10:21.903 +03:00 [INF] The file /css/site.css was not modified
+2022-05-10 15:10:21.903 +03:00 [INF] The file /lib/bootstrap/dist/js/bootstrap.bundle.min.js was not modified
+2022-05-10 15:10:21.906 +03:00 [INF] Request finished in 41.9075ms 304 text/css
+2022-05-10 15:10:21.903 +03:00 [INF] The file /js/site.js was not modified
+2022-05-10 15:10:21.906 +03:00 [INF] Request finished in 41.9077ms 304 application/javascript
+2022-05-10 15:10:21.906 +03:00 [INF] Request finished in 41.8278ms 304 text/css
+2022-05-10 15:10:21.906 +03:00 [INF] Request finished in 29.1412ms 304 application/javascript
+2022-05-10 15:10:21.907 +03:00 [INF] Request finished in 29.6764ms 304 application/javascript
+2022-05-10 15:10:27.162 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/user/index  
+2022-05-10 15:10:27.169 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.UserController.Index (HelPark.User)'
+2022-05-10 15:10:27.177 +03:00 [INF] Route matched with {action = "Index", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HelPark.User.Controllers.UserController (HelPark.User).
+2022-05-10 15:10:51.472 +03:00 [INF] Executing ViewResult, running view Index.
+2022-05-10 15:10:51.476 +03:00 [ERR] The view 'Index' was not found. Searched locations: ["/Views/User/Index.cshtml","/Views/Shared/Index.cshtml"]
+2022-05-10 15:10:51.483 +03:00 [INF] Executed action HelPark.User.Controllers.UserController.Index (HelPark.User) in 24302.3142ms
+2022-05-10 15:10:51.484 +03:00 [INF] Executed endpoint 'HelPark.User.Controllers.UserController.Index (HelPark.User)'
+2022-05-10 15:10:51.487 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The view 'Index' was not found. The following locations were searched:
+/Views/User/Index.cshtml
+/Views/Shared/Index.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewEngines.ViewEngineResult.EnsureSuccessful(IEnumerable`1 originalLocations)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-05-10 15:10:51.818 +03:00 [INF] Request finished in 24657.2762ms 500 text/html; charset=utf-8
+2022-05-10 15:11:39.503 +03:00 [INF] User profile is available. Using 'C:\Users\melih\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-05-10 15:11:39.780 +03:00 [INF] Now listening on: https://localhost:5001
+2022-05-10 15:11:39.781 +03:00 [INF] Now listening on: http://localhost:5000
+2022-05-10 15:11:39.782 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-10 15:11:39.782 +03:00 [INF] Hosting environment: Development
+2022-05-10 15:11:39.783 +03:00 [INF] Content root path: D:\HelPark\source\repos\HelPark\HelPark.User
+2022-05-10 15:11:40.251 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2022-05-10 15:11:40.313 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-10 15:11:40.378 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HelPark.User.Controllers.HomeController (HelPark.User).
+2022-05-10 15:11:40.417 +03:00 [INF] Executing ViewResult, running view Index.
+2022-05-10 15:11:40.489 +03:00 [INF] Executed ViewResult - view Index executed in 74.3141ms.
+2022-05-10 15:11:40.495 +03:00 [INF] Executed action HelPark.User.Controllers.HomeController.Index (HelPark.User) in 114.9307ms
+2022-05-10 15:11:40.496 +03:00 [INF] Executed endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-10 15:11:40.500 +03:00 [INF] Request finished in 253.8338ms 200 text/html; charset=utf-8
+2022-05-10 16:49:47.900 +03:00 [INF] User profile is available. Using 'C:\Users\melih\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-05-10 16:49:48.458 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-10 16:49:48.458 +03:00 [INF] Hosting environment: Development
+2022-05-10 16:49:48.458 +03:00 [INF] Content root path: D:\HelPark\source\repos\HelPark\HelPark.User
+2022-05-10 16:49:48.480 +03:00 [INF] Request starting HTTP/2.0 GET https://localhost:44332/  
+2022-05-10 16:49:48.510 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-10 16:49:48.552 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HelPark.User.Controllers.HomeController (HelPark.User).
+2022-05-10 16:50:04.948 +03:00 [INF] Executed action HelPark.User.Controllers.HomeController.Index (HelPark.User) in 16387.0222ms
+2022-05-10 16:50:04.952 +03:00 [INF] Executed endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-10 16:50:04.955 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+Newtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'HelPark.User.Models.cities' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path '', line 1, position 1.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at HelPark.User.Controllers.HomeController.Index() in D:\HelPark\source\repos\HelPark\HelPark.User\Controllers\HomeController.cs:line 41
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-05-10 16:50:05.171 +03:00 [INF] Request finished in 16692.7588ms 500 text/html; charset=utf-8
+2022-05-10 16:50:16.611 +03:00 [INF] User profile is available. Using 'C:\Users\melih\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-05-10 16:50:16.710 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-10 16:50:16.710 +03:00 [INF] Hosting environment: Development
+2022-05-10 16:50:16.710 +03:00 [INF] Content root path: D:\HelPark\source\repos\HelPark\HelPark.User
+2022-05-10 16:50:16.723 +03:00 [INF] Request starting HTTP/2.0 GET https://localhost:44332/  
+2022-05-10 16:50:16.740 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-10 16:50:16.762 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HelPark.User.Controllers.HomeController (HelPark.User).
+2022-05-10 16:50:17.046 +03:00 [INF] Executed action HelPark.User.Controllers.HomeController.Index (HelPark.User) in 280.1876ms
+2022-05-10 16:50:17.048 +03:00 [INF] Executed endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-10 16:50:17.050 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+Newtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'HelPark.User.Models.cities' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path '', line 1, position 1.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at HelPark.User.Controllers.HomeController.Index() in D:\HelPark\source\repos\HelPark\HelPark.User\Controllers\HomeController.cs:line 41
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-05-10 16:50:17.099 +03:00 [INF] Request finished in 378.1978ms 500 text/html; charset=utf-8
+2022-05-10 16:50:54.089 +03:00 [INF] User profile is available. Using 'C:\Users\melih\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-05-10 16:50:54.416 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-10 16:50:54.417 +03:00 [INF] Hosting environment: Development
+2022-05-10 16:50:54.417 +03:00 [INF] Content root path: D:\HelPark\source\repos\HelPark\HelPark.User
+2022-05-10 16:50:54.442 +03:00 [INF] Request starting HTTP/2.0 GET https://localhost:44332/  
+2022-05-10 16:50:54.490 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-10 16:50:54.538 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HelPark.User.Controllers.HomeController (HelPark.User).
+2022-05-10 16:52:45.871 +03:00 [INF] User profile is available. Using 'C:\Users\melih\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-05-10 16:52:46.157 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-10 16:52:46.162 +03:00 [INF] Hosting environment: Development
+2022-05-10 16:52:46.163 +03:00 [INF] Content root path: D:\HelPark\source\repos\HelPark\HelPark.User
+2022-05-10 16:52:46.178 +03:00 [INF] Request starting HTTP/2.0 GET https://localhost:44332/  
+2022-05-10 16:52:46.213 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-10 16:52:46.251 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HelPark.User.Controllers.HomeController (HelPark.User).
+2022-05-10 16:52:47.112 +03:00 [INF] Executing ViewResult, running view Index.
+2022-05-10 16:52:47.650 +03:00 [INF] Executed ViewResult - view Index executed in 553.5681ms.
+2022-05-10 16:52:47.663 +03:00 [INF] Executed action HelPark.User.Controllers.HomeController.Index (HelPark.User) in 1411.1291ms
+2022-05-10 16:52:47.665 +03:00 [INF] Executed endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-10 16:52:47.674 +03:00 [INF] Request finished in 1498.2056ms 200 text/html; charset=utf-8
+2022-05-10 16:52:47.701 +03:00 [INF] Request starting HTTP/2.0 GET https://localhost:44332/lib/jquery/dist/jquery.min.js  
+2022-05-10 16:52:47.701 +03:00 [INF] Request starting HTTP/2.0 GET https://localhost:44332/lib/bootstrap/dist/js/bootstrap.bundle.min.js  
+2022-05-10 16:52:47.701 +03:00 [INF] Request starting HTTP/2.0 GET https://localhost:44332/css/site.css  
+2022-05-10 16:52:47.701 +03:00 [INF] Request starting HTTP/2.0 GET https://localhost:44332/lib/bootstrap/dist/css/bootstrap.min.css  
+2022-05-10 16:52:47.701 +03:00 [INF] Request starting HTTP/2.0 GET https://localhost:44332/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+2022-05-10 16:52:47.732 +03:00 [INF] Sending file. Request path: '/js/site.js'. Physical path: 'D:\HelPark\source\repos\HelPark\HelPark.User\wwwroot\js\site.js'
+2022-05-10 16:52:47.732 +03:00 [INF] Request finished in 31.0358ms 200 application/javascript
+2022-05-10 16:52:47.754 +03:00 [INF] Sending file. Request path: '/css/site.css'. Physical path: 'D:\HelPark\source\repos\HelPark\HelPark.User\wwwroot\css\site.css'
+2022-05-10 16:52:47.755 +03:00 [INF] Request finished in 54.3149ms 200 text/css
+2022-05-10 16:52:48.488 +03:00 [INF] Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'D:\HelPark\source\repos\HelPark\HelPark.User\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css'
+2022-05-10 16:52:48.492 +03:00 [INF] Request finished in 790.3668ms 200 text/css
+2022-05-10 16:52:48.499 +03:00 [INF] Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'D:\HelPark\source\repos\HelPark\HelPark.User\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js'
+2022-05-10 16:52:48.500 +03:00 [INF] Request finished in 799.398ms 200 application/javascript
+2022-05-10 16:52:48.507 +03:00 [INF] Sending file. Request path: '/lib/jquery/dist/jquery.min.js'. Physical path: 'D:\HelPark\source\repos\HelPark\HelPark.User\wwwroot\lib\jquery\dist\jquery.min.js'
+2022-05-10 16:52:48.507 +03:00 [INF] Request finished in 806.8003ms 200 application/javascript
+2022-05-10 17:08:03.886 +03:00 [INF] User profile is available. Using 'C:\Users\melih\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-05-10 17:08:04.145 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-10 17:08:04.146 +03:00 [INF] Hosting environment: Development
+2022-05-10 17:08:04.146 +03:00 [INF] Content root path: D:\HelPark\source\repos\HelPark\HelPark.User
+2022-05-10 17:08:04.164 +03:00 [INF] Request starting HTTP/2.0 GET https://localhost:44332/  
+2022-05-10 17:08:04.190 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-10 17:08:04.226 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HelPark.User.Controllers.HomeController (HelPark.User).
+2022-05-10 17:12:30.971 +03:00 [INF] User profile is available. Using 'C:\Users\melih\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-05-10 17:12:31.852 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-10 17:12:31.860 +03:00 [INF] Hosting environment: Development
+2022-05-10 17:12:31.861 +03:00 [INF] Content root path: D:\HelPark\source\repos\HelPark\HelPark.User
+2022-05-10 17:12:31.888 +03:00 [INF] Request starting HTTP/2.0 GET https://localhost:44332/  
+2022-05-10 17:12:31.936 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-10 17:12:31.982 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HelPark.User.Controllers.HomeController (HelPark.User).
+2022-05-10 17:12:34.225 +03:00 [INF] Executed action HelPark.User.Controllers.HomeController.Index (HelPark.User) in 2238.2193ms
+2022-05-10 17:12:34.228 +03:00 [INF] Executed endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-10 17:12:34.230 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+MongoDB.Driver.MongoAuthenticationException: Unable to authenticate using sasl protocol mechanism SCRAM-SHA-1.
+ ---> MongoDB.Driver.MongoCommandException: Command saslContinue failed: bad auth : Authentication failed..
+   at MongoDB.Driver.Core.WireProtocol.CommandUsingQueryMessageWireProtocol`1.ProcessReply(ConnectionId connectionId, ReplyMessage`1 reply)
+   at MongoDB.Driver.Core.WireProtocol.CommandUsingQueryMessageWireProtocol`1.Execute(IConnection connection, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Authentication.SaslAuthenticator.Authenticate(IConnection connection, ConnectionDescription description, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.Open(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.ConnectionPools.ExclusiveConnectionPool.PooledConnection.Open(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.ConnectionPools.ExclusiveConnectionPool.AcquiredConnection.Open(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Servers.Server.GetChannel(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Bindings.ServerChannelSource.GetChannel(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Bindings.ChannelSourceHandle.GetChannel(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Operations.RetryableWriteContext.Initialize(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Operations.RetryableWriteContext.Create(IWriteBinding binding, Boolean retryRequested, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Operations.BulkMixedWriteOperation.Execute(IWriteBinding binding, CancellationToken cancellationToken)
+   at MongoDB.Driver.OperationExecutor.ExecuteWriteOperation[TResult](IWriteBinding binding, IWriteOperation`1 operation, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteWriteOperation[TResult](IClientSessionHandle session, IWriteOperation`1 operation, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.BulkWrite(IClientSessionHandle session, IEnumerable`1 requests, BulkWriteOptions options, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.<>c__DisplayClass27_0.<BulkWrite>b__0(IClientSessionHandle session)
+   at MongoDB.Driver.MongoCollectionImpl`1.UsingImplicitSession[TResult](Func`2 func, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.BulkWrite(IEnumerable`1 requests, BulkWriteOptions options, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionBase`1.<>c__DisplayClass68_0.<InsertOne>b__0(IEnumerable`1 requests, BulkWriteOptions bulkWriteOptions)
+   at MongoDB.Driver.MongoCollectionBase`1.InsertOne(TDocument document, InsertOneOptions options, Action`2 bulkWrite)
+   at MongoDB.Driver.MongoCollectionBase`1.InsertOne(TDocument document, InsertOneOptions options, CancellationToken cancellationToken)
+   at HelPark.User.Controllers.HomeController.Index() in D:\HelPark\source\repos\HelPark\HelPark.User\Controllers\HomeController.cs:line 74
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-05-10 17:12:34.331 +03:00 [INF] Request finished in 2448.8822ms 500 text/html; charset=utf-8
+2022-05-10 17:13:33.674 +03:00 [INF] User profile is available. Using 'C:\Users\melih\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-05-10 17:13:33.897 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-10 17:13:33.898 +03:00 [INF] Hosting environment: Development
+2022-05-10 17:13:33.898 +03:00 [INF] Content root path: D:\HelPark\source\repos\HelPark\HelPark.User
+2022-05-10 17:13:33.913 +03:00 [INF] Request starting HTTP/2.0 GET https://localhost:44332/  
+2022-05-10 17:13:33.941 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-10 17:13:33.972 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HelPark.User.Controllers.HomeController (HelPark.User).
+2022-05-10 17:13:35.385 +03:00 [INF] Executed action HelPark.User.Controllers.HomeController.Index (HelPark.User) in 1409.0039ms
+2022-05-10 17:13:35.390 +03:00 [INF] Executed endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-10 17:13:35.394 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+MongoDB.Driver.MongoAuthenticationException: Unable to authenticate using sasl protocol mechanism SCRAM-SHA-1.
+ ---> MongoDB.Driver.MongoCommandException: Command saslContinue failed: bad auth : Authentication failed..
+   at MongoDB.Driver.Core.WireProtocol.CommandUsingQueryMessageWireProtocol`1.ProcessReply(ConnectionId connectionId, ReplyMessage`1 reply)
+   at MongoDB.Driver.Core.WireProtocol.CommandUsingQueryMessageWireProtocol`1.Execute(IConnection connection, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Authentication.SaslAuthenticator.Authenticate(IConnection connection, ConnectionDescription description, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.Open(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.ConnectionPools.ExclusiveConnectionPool.PooledConnection.Open(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.ConnectionPools.ExclusiveConnectionPool.AcquiredConnection.Open(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Servers.Server.GetChannel(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Bindings.ServerChannelSource.GetChannel(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Bindings.ChannelSourceHandle.GetChannel(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Operations.RetryableWriteContext.Initialize(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Operations.RetryableWriteContext.Create(IWriteBinding binding, Boolean retryRequested, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Operations.BulkMixedWriteOperation.Execute(IWriteBinding binding, CancellationToken cancellationToken)
+   at MongoDB.Driver.OperationExecutor.ExecuteWriteOperation[TResult](IWriteBinding binding, IWriteOperation`1 operation, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteWriteOperation[TResult](IClientSessionHandle session, IWriteOperation`1 operation, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.BulkWrite(IClientSessionHandle session, IEnumerable`1 requests, BulkWriteOptions options, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.<>c__DisplayClass27_0.<BulkWrite>b__0(IClientSessionHandle session)
+   at MongoDB.Driver.MongoCollectionImpl`1.UsingImplicitSession[TResult](Func`2 func, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.BulkWrite(IEnumerable`1 requests, BulkWriteOptions options, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionBase`1.<>c__DisplayClass68_0.<InsertOne>b__0(IEnumerable`1 requests, BulkWriteOptions bulkWriteOptions)
+   at MongoDB.Driver.MongoCollectionBase`1.InsertOne(TDocument document, InsertOneOptions options, Action`2 bulkWrite)
+   at MongoDB.Driver.MongoCollectionBase`1.InsertOne(TDocument document, InsertOneOptions options, CancellationToken cancellationToken)
+   at HelPark.User.Controllers.HomeController.Index() in D:\HelPark\source\repos\HelPark\HelPark.User\Controllers\HomeController.cs:line 74
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-05-10 17:13:35.555 +03:00 [INF] Request finished in 1644.3712ms 500 text/html; charset=utf-8
+2022-05-10 17:18:16.682 +03:00 [INF] User profile is available. Using 'C:\Users\melih\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-05-10 17:18:16.922 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-10 17:18:16.922 +03:00 [INF] Hosting environment: Development
+2022-05-10 17:18:16.925 +03:00 [INF] Content root path: D:\HelPark\source\repos\HelPark\HelPark.User
+2022-05-10 17:18:16.940 +03:00 [INF] Request starting HTTP/2.0 GET https://localhost:44332/  
+2022-05-10 17:18:16.967 +03:00 [INF] Executing endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-10 17:18:17.003 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HelPark.User.Controllers.HomeController (HelPark.User).
+2022-05-10 17:18:18.474 +03:00 [INF] Executed action HelPark.User.Controllers.HomeController.Index (HelPark.User) in 1467.5401ms
+2022-05-10 17:18:18.476 +03:00 [INF] Executed endpoint 'HelPark.User.Controllers.HomeController.Index (HelPark.User)'
+2022-05-10 17:18:18.478 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+MongoDB.Driver.MongoAuthenticationException: Unable to authenticate using sasl protocol mechanism SCRAM-SHA-1.
+ ---> MongoDB.Driver.MongoCommandException: Command saslContinue failed: bad auth : Authentication failed..
+   at MongoDB.Driver.Core.WireProtocol.CommandUsingQueryMessageWireProtocol`1.ProcessReply(ConnectionId connectionId, ReplyMessage`1 reply)
+   at MongoDB.Driver.Core.WireProtocol.CommandUsingQueryMessageWireProtocol`1.Execute(IConnection connection, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Authentication.SaslAuthenticator.Authenticate(IConnection connection, ConnectionDescription description, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.Open(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.ConnectionPools.ExclusiveConnectionPool.PooledConnection.Open(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.ConnectionPools.ExclusiveConnectionPool.AcquiredConnection.Open(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Servers.Server.GetChannel(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Bindings.ServerChannelSource.GetChannel(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Bindings.ChannelSourceHandle.GetChannel(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Operations.RetryableWriteContext.Initialize(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Operations.RetryableWriteContext.Create(IWriteBinding binding, Boolean retryRequested, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Operations.BulkMixedWriteOperation.Execute(IWriteBinding binding, CancellationToken cancellationToken)
+   at MongoDB.Driver.OperationExecutor.ExecuteWriteOperation[TResult](IWriteBinding binding, IWriteOperation`1 operation, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteWriteOperation[TResult](IClientSessionHandle session, IWriteOperation`1 operation, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.BulkWrite(IClientSessionHandle session, IEnumerable`1 requests, BulkWriteOptions options, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.<>c__DisplayClass27_0.<BulkWrite>b__0(IClientSessionHandle session)
+   at MongoDB.Driver.MongoCollectionImpl`1.UsingImplicitSession[TResult](Func`2 func, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.BulkWrite(IEnumerable`1 requests, BulkWriteOptions options, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionBase`1.<>c__DisplayClass68_0.<InsertOne>b__0(IEnumerable`1 requests, BulkWriteOptions bulkWriteOptions)
+   at MongoDB.Driver.MongoCollectionBase`1.InsertOne(TDocument document, InsertOneOptions options, Action`2 bulkWrite)
+   at MongoDB.Driver.MongoCollectionBase`1.InsertOne(TDocument document, InsertOneOptions options, CancellationToken cancellationToken)
+   at HelPark.User.Controllers.HomeController.Index() in D:\HelPark\source\repos\HelPark\HelPark.User\Controllers\HomeController.cs:line 77
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-05-10 17:18:18.563 +03:00 [INF] Request finished in 1625.665ms 500 text/html; charset=utf-8
