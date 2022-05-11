@@ -41,8 +41,8 @@ namespace HelPark.Business.IsPark
                     isParkDetail = JsonConvert.DeserializeObject<List<IsParkDetail>>(result)?.FirstOrDefault();
 
                     isParkDetailRepository.InsertOne(isParkDetail);
-                    isParkDetail.FreeTime = 61;
-                    isParkDetailRepository.UpdateOne(isParkDetail);
+
+                    //isParkDetailRepository.UpdateOne(isParkDetail);
                 }
             }
 
